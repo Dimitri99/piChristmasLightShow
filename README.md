@@ -11,7 +11,7 @@ The parser, written in Python 3, takes one command line argument, a .txt file, a
 into the terminal.  The parser will then output the code for the .py file.  Then, one can copy and paste the python code into a .py file to create a new light sequence for the pi.  
 
 --THE .TXT INPUT FILE/DATA FILE--
-The .txt files I included in the project come from a google drive in the comments section of https://www.instructables.com/id/Raspberry-Pi-Christmas-Tree-Light-Show/
+The .txt files I included in the project are not my own. They come from a google drive in the comments section of https://www.instructables.com/id/Raspberry-Pi-Christmas-Tree-Light-Show/
 These data files can be created using the Light-O-Rama software application.  When analyzing the data file, each line contains 1) a channel number, 2) whether it is on or off, and 3) at what time in the song to turn the light on, measured in 1 one-thousandths of a second.  
 
 --THE GPIO PINS--
