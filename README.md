@@ -26,4 +26,4 @@ channel 7) pin 22 (GPIO 25)
 channel 8) pin 29 (GPIO 5)
 
 --NOTE--
-My parser generates code so that 'False' or '1' means "turn the light on" and 'True' or '0' means "Turn the light off. Some relays may represent 'True' as on and 'False' as off.  I am used a Sans-Smart 8-channel relay board, which represents 'False' as on, and visa versa.  
+My parser generates code so that 'False' or '1' means "turn the light on" and 'True' or '0' means "Turn the light off. Some relays may represent 'True' as on and 'False' as off.  I am using a Sans-Smart 8-channel relay board, which represents 'False' as on, and visa versa.  
